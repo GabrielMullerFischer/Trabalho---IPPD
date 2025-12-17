@@ -1,6 +1,4 @@
-===================================================================================
-TAREFA A
-===================================================================================
+# TAREFA A
 
 ![TAREFA A - RANKING DE PERFORMACE](grafico_task_a_barras.png)
 ![TAREFA A - EVOLUÇÃO TEMPORAL](grafico_task_a_schedules.png)
@@ -21,9 +19,7 @@ Guided:
 
 Conclusão: Podemos concluir que o schedule(dynamic, 1) é a melhor escolha para este cenário de processamento pesado e irregular. O "peso" de cada tarefa é grande o suficiente para tornar o overhead de gerenciamento insignificante frente ao ganho de manter todas as threads ocupadas quase 100% do tempo.
 
-===================================================================================
-TAREFA D
-===================================================================================
+# TAREFA D
 
 ![TAREFA D - EVOLUÇÃO TEMPORAL](grafico_task_d_tempos.png)
 ![TAREFA D - RANKING DE PERFORMACE](grafico_task_d_overhead.png)
